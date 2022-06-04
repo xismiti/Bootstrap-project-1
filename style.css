@@ -1,0 +1,32 @@
+
+
+#navbar-styling{
+    background: linear-gradient( to top, rgb(1, 56, 1), rgb(68, 223, 7));
+}
+
+#nav-icon{
+    border-radius: 30%;
+}
+#crazyfrog-image{
+
+    width: 300px;
+}
+
+.card-img-top:hover{
+    transform: scale(1.2);
+    border-radius: 20px;
+}
+
+footer{
+    margin-top: 50px;
+    height: 6vh;
+    display: flex;
+    background-color: black;
+    align-items:center ;
+    justify-content: center;
+    color: white;
+}
+footer>p{
+    margin: auto;
+    font-size: 10pt;
+}
